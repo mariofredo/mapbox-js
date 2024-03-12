@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+#map_container {
+  width: 100%;
+  height: 100vh;
+}
